@@ -1,0 +1,35 @@
+_repo: '-----------_35280'
+_version: 0.1.0
+alternative_title: Candide. Greek
+covers:
+- cover_type: archival
+  image_path: 35280-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, François Marie
+    - Arouet, Francois Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+description: 'Translation of: Candide'
+gutenberg_issued: '2011-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35280'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Βιβλιοθήκη "Εκλεκτά Έργα", αριθ. 64
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Optimism -- Fiction'
+- !lcc 'PQ'
+title: Ο Αγαθούλης
+url: http://www.gutenberg.org/ebooks/35280
