@@ -18,6 +18,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Voltaire
     - http://en.wikipedia.org/wiki/Voltaire
 description: 'Translation of: Candide'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35280#-----------
 gutenberg_issued: '2011-02-14'
 gutenberg_type: Text
 identifiers:
